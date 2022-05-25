@@ -1,0 +1,9 @@
+.form-check{
+    width: 200px;
+    margin: 200px 200px;
+    display:table
+}
+.form-check input {
+    margin: 14px;
+    padding: 0px;
+}
